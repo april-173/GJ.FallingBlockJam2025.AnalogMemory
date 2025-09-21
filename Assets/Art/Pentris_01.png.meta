@@ -1,0 +1,7150 @@
+fileFormatVersion: 2
+guid: b4f05f4628a8ae040a34ce7a3d91dedc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6652320861555526816
+    second: Pentris_01_0
+  - first:
+      213: 7401045205173998519
+    second: Pentris_01_1
+  - first:
+      213: 2259931279756816484
+    second: Pentris_01_2
+  - first:
+      213: 5679425975303482441
+    second: Pentris_01_3
+  - first:
+      213: 5569446724481010119
+    second: Pentris_01_4
+  - first:
+      213: -2923494717277281076
+    second: Pentris_01_5
+  - first:
+      213: 7514759253132760972
+    second: Pentris_01_6
+  - first:
+      213: 486487383754638573
+    second: Pentris_01_7
+  - first:
+      213: -4800603534433961989
+    second: Pentris_01_8
+  - first:
+      213: -2756754684722210573
+    second: Pentris_01_9
+  - first:
+      213: -2252786120298240980
+    second: Pentris_01_10
+  - first:
+      213: 4778930664169314694
+    second: Pentris_01_11
+  - first:
+      213: 3929592281949881816
+    second: Pentris_01_12
+  - first:
+      213: 1909719202634692284
+    second: Pentris_01_13
+  - first:
+      213: 1313239055031340950
+    second: Pentris_01_14
+  - first:
+      213: 8991102310127201025
+    second: Pentris_01_15
+  - first:
+      213: 2200641037891706963
+    second: Pentris_01_16
+  - first:
+      213: -5000310591062537100
+    second: Pentris_01_17
+  - first:
+      213: 233137787424056688
+    second: Pentris_01_18
+  - first:
+      213: -5817113981873658769
+    second: Pentris_01_19
+  - first:
+      213: 8043958609058614381
+    second: Pentris_01_20
+  - first:
+      213: -4569851359008207979
+    second: Pentris_01_21
+  - first:
+      213: 8827551935855855203
+    second: Pentris_01_22
+  - first:
+      213: 3839445875147945597
+    second: Pentris_01_23
+  - first:
+      213: -7760411309916524377
+    second: Pentris_01_24
+  - first:
+      213: 2680103519566117458
+    second: Pentris_01_25
+  - first:
+      213: 1411425078623404662
+    second: Pentris_01_26
+  - first:
+      213: -2728827690277972456
+    second: Pentris_01_27
+  - first:
+      213: -9090750390157519932
+    second: Pentris_01_28
+  - first:
+      213: -1372723575011185327
+    second: Pentris_01_29
+  - first:
+      213: 5325662267919351746
+    second: Pentris_01_30
+  - first:
+      213: -2685477940319242048
+    second: Pentris_01_31
+  - first:
+      213: 2710834651563623591
+    second: Pentris_01_32
+  - first:
+      213: 3835473417223739645
+    second: Pentris_01_33
+  - first:
+      213: 6751774160405629165
+    second: Pentris_01_34
+  - first:
+      213: -2630991766644531486
+    second: Pentris_01_35
+  - first:
+      213: -4823109140874005047
+    second: Pentris_01_36
+  - first:
+      213: -2099239096387961177
+    second: Pentris_01_37
+  - first:
+      213: -5209316248302668121
+    second: Pentris_01_38
+  - first:
+      213: -6614838356666003792
+    second: Pentris_01_39
+  - first:
+      213: 5858386230487878143
+    second: Pentris_01_40
+  - first:
+      213: -2859600993787385973
+    second: Pentris_01_41
+  - first:
+      213: 2209893525324632605
+    second: Pentris_01_42
+  - first:
+      213: -3059818142278694524
+    second: Pentris_01_43
+  - first:
+      213: -7100427606561274164
+    second: Pentris_01_44
+  - first:
+      213: -4530209425986498149
+    second: Pentris_01_45
+  - first:
+      213: -4793689561127539023
+    second: Pentris_01_46
+  - first:
+      213: -3830273889026633053
+    second: Pentris_01_47
+  - first:
+      213: 4556914637662627454
+    second: Pentris_01_48
+  - first:
+      213: -7558179025278623623
+    second: Pentris_01_49
+  - first:
+      213: 1010916421418452443
+    second: Pentris_01_50
+  - first:
+      213: 7453627015628663042
+    second: Pentris_01_51
+  - first:
+      213: 706505323727567819
+    second: Pentris_01_52
+  - first:
+      213: 1393857332847911445
+    second: Pentris_01_53
+  - first:
+      213: -4148399807289329255
+    second: Pentris_01_54
+  - first:
+      213: 3150329045753439596
+    second: Pentris_01_55
+  - first:
+      213: 675313501036886144
+    second: Pentris_01_56
+  - first:
+      213: -1639439283651724134
+    second: Pentris_01_57
+  - first:
+      213: -6217204978198873976
+    second: Pentris_01_58
+  - first:
+      213: -5790036277049264382
+    second: Pentris_01_59
+  - first:
+      213: -6182708316122021512
+    second: Pentris_01_60
+  - first:
+      213: -1918695145003452536
+    second: Pentris_01_61
+  - first:
+      213: 5250870610622897341
+    second: Pentris_01_62
+  - first:
+      213: 3231669042028514985
+    second: Pentris_01_63
+  - first:
+      213: 1467815628701674517
+    second: Pentris_01_64
+  - first:
+      213: -9035352913937233086
+    second: Pentris_01_65
+  - first:
+      213: 3486242290418262756
+    second: Pentris_01_66
+  - first:
+      213: 8250976714025261107
+    second: Pentris_01_67
+  - first:
+      213: -351437815489011919
+    second: Pentris_01_68
+  - first:
+      213: 2914757677585867935
+    second: Pentris_01_69
+  - first:
+      213: -2806072688105881712
+    second: Pentris_01_70
+  - first:
+      213: 1804502323326503459
+    second: Pentris_01_71
+  - first:
+      213: 4615079250681096081
+    second: Pentris_01_72
+  - first:
+      213: 7247445806154467127
+    second: Pentris_01_73
+  - first:
+      213: -354309319612683540
+    second: Pentris_01_74
+  - first:
+      213: 2481518480007857775
+    second: Pentris_01_75
+  - first:
+      213: -3593858592401678666
+    second: Pentris_01_76
+  - first:
+      213: -2511772148179236753
+    second: Pentris_01_77
+  - first:
+      213: -7009141740192837180
+    second: Pentris_01_78
+  - first:
+      213: -1950438004161455793
+    second: Pentris_01_79
+  - first:
+      213: 471941952280587619
+    second: Pentris_01_80
+  - first:
+      213: -6059265307413427629
+    second: Pentris_01_81
+  - first:
+      213: -2242954712126870586
+    second: Pentris_01_82
+  - first:
+      213: 538126951685497742
+    second: Pentris_01_83
+  - first:
+      213: 6390563572714832697
+    second: Pentris_01_84
+  - first:
+      213: -8064633066442524595
+    second: Pentris_01_85
+  - first:
+      213: 2947486687192903362
+    second: Pentris_01_86
+  - first:
+      213: -4341204228007201212
+    second: Pentris_01_87
+  - first:
+      213: -4271213244759930848
+    second: Pentris_01_88
+  - first:
+      213: 1224740755678386946
+    second: Pentris_01_89
+  - first:
+      213: -958259499273765293
+    second: Pentris_01_90
+  - first:
+      213: 1526940005020759567
+    second: Pentris_01_91
+  - first:
+      213: 6149672309433763879
+    second: Pentris_01_92
+  - first:
+      213: 8578739732880780576
+    second: Pentris_01_93
+  - first:
+      213: 1413805969065131746
+    second: Pentris_01_94
+  - first:
+      213: 2900592752570333975
+    second: Pentris_01_95
+  - first:
+      213: -7070383910310729725
+    second: Pentris_01_96
+  - first:
+      213: -7039093691169573665
+    second: Pentris_01_97
+  - first:
+      213: 1346071889476268016
+    second: Pentris_01_98
+  - first:
+      213: 5849709507244324694
+    second: Pentris_01_99
+  - first:
+      213: 700202241607383305
+    second: Pentris_01_100
+  - first:
+      213: 1810399810276906384
+    second: Pentris_01_101
+  - first:
+      213: -7103519719077954914
+    second: Pentris_01_102
+  - first:
+      213: -8078236300876628232
+    second: Pentris_01_103
+  - first:
+      213: -6052375868668907494
+    second: Pentris_01_104
+  - first:
+      213: -2034233788985240663
+    second: Pentris_01_105
+  - first:
+      213: -7172105797077373585
+    second: Pentris_01_106
+  - first:
+      213: 4848054415981813156
+    second: Pentris_01_107
+  - first:
+      213: 4834905483502554684
+    second: Pentris_01_108
+  - first:
+      213: -6086170122661106964
+    second: Pentris_01_109
+  - first:
+      213: 5232022597628792969
+    second: Pentris_01_110
+  - first:
+      213: 4110152773334616777
+    second: Pentris_01_111
+  - first:
+      213: 6926814069717731136
+    second: Pentris_01_112
+  - first:
+      213: 8985072052305745744
+    second: Pentris_01_113
+  - first:
+      213: 8548492046552564358
+    second: Pentris_01_114
+  - first:
+      213: -1663442158191818886
+    second: Pentris_01_115
+  - first:
+      213: 7485421088343773743
+    second: Pentris_01_116
+  - first:
+      213: -174880711194667305
+    second: Pentris_01_117
+  - first:
+      213: -5357914101614225751
+    second: Pentris_01_118
+  - first:
+      213: -481823438633045503
+    second: Pentris_01_119
+  - first:
+      213: 3645752802809068989
+    second: Pentris_01_120
+  - first:
+      213: 2190083525759181785
+    second: Pentris_01_121
+  - first:
+      213: 534977603210394299
+    second: Pentris_01_122
+  - first:
+      213: 8337913585331131280
+    second: Pentris_01_123
+  - first:
+      213: 6771528024618625883
+    second: Pentris_01_124
+  - first:
+      213: 949102658867612947
+    second: Pentris_01_125
+  - first:
+      213: -5461855883141034610
+    second: Pentris_01_126
+  - first:
+      213: 6134812175343123335
+    second: Pentris_01_127
+  - first:
+      213: -4647254050263007085
+    second: Pentris_01_128
+  - first:
+      213: -6919119757070840915
+    second: Pentris_01_129
+  - first:
+      213: -6206534045220796088
+    second: Pentris_01_130
+  - first:
+      213: -847685675183339794
+    second: Pentris_01_131
+  - first:
+      213: -3711387081354072949
+    second: Pentris_01_132
+  - first:
+      213: -1785274603318383982
+    second: Pentris_01_133
+  - first:
+      213: 3075114963887035309
+    second: Pentris_01_134
+  - first:
+      213: 6907305659538535889
+    second: Pentris_01_135
+  - first:
+      213: 21826897068987364
+    second: Pentris_01_136
+  - first:
+      213: -6126221532150223878
+    second: Pentris_01_137
+  - first:
+      213: -1794753820689069264
+    second: Pentris_01_138
+  - first:
+      213: -3016535461948621402
+    second: Pentris_01_139
+  - first:
+      213: 817404826480031940
+    second: Pentris_01_140
+  - first:
+      213: 1269892813881355399
+    second: Pentris_01_141
+  - first:
+      213: 7516740234120020805
+    second: Pentris_01_142
+  - first:
+      213: -8622847347423273404
+    second: Pentris_01_143
+  - first:
+      213: -4508044963625009312
+    second: Pentris_01_144
+  - first:
+      213: -6213241697749854917
+    second: Pentris_01_145
+  - first:
+      213: 1306100283375059574
+    second: Pentris_01_146
+  - first:
+      213: 9140016480414754819
+    second: Pentris_01_147
+  - first:
+      213: 2005289195022110822
+    second: Pentris_01_148
+  - first:
+      213: -5653041659372340203
+    second: Pentris_01_149
+  - first:
+      213: 4392365097147630136
+    second: Pentris_01_150
+  - first:
+      213: -4056494484561951934
+    second: Pentris_01_151
+  - first:
+      213: -4856273458603075329
+    second: Pentris_01_152
+  - first:
+      213: 1565772831200192608
+    second: Pentris_01_153
+  - first:
+      213: 4510822621704892072
+    second: Pentris_01_154
+  - first:
+      213: 6830967003484372269
+    second: Pentris_01_155
+  - first:
+      213: -9183087244950308186
+    second: Pentris_01_156
+  - first:
+      213: 1829327269901937195
+    second: Pentris_01_157
+  - first:
+      213: -8546636612682331299
+    second: Pentris_01_158
+  - first:
+      213: 8981561310657175816
+    second: Pentris_01_159
+  - first:
+      213: -3425922585661509964
+    second: Pentris_01_160
+  - first:
+      213: 8581845719526521541
+    second: Pentris_01_161
+  - first:
+      213: 4387519939903180163
+    second: Pentris_01_162
+  - first:
+      213: -8676751874591367765
+    second: Pentris_01_163
+  - first:
+      213: -6303866373328531200
+    second: Pentris_01_164
+  - first:
+      213: -2531974314321887231
+    second: Pentris_01_165
+  - first:
+      213: -842834761600488805
+    second: Pentris_01_166
+  - first:
+      213: 4155696253268042600
+    second: Pentris_01_167
+  - first:
+      213: -4284275987731596476
+    second: Pentris_01_168
+  - first:
+      213: -271834531115437194
+    second: Pentris_01_169
+  - first:
+      213: 6281523015753554988
+    second: Pentris_01_170
+  - first:
+      213: 276451410556104848
+    second: Pentris_01_171
+  - first:
+      213: 7381268662464170284
+    second: Pentris_01_172
+  - first:
+      213: -1537101193866485450
+    second: Pentris_01_173
+  - first:
+      213: 5758853222821530536
+    second: Pentris_01_174
+  - first:
+      213: 1911553172766900490
+    second: Pentris_01_175
+  - first:
+      213: 3386923118651696697
+    second: Pentris_01_176
+  - first:
+      213: 6883635281594764082
+    second: Pentris_01_177
+  - first:
+      213: -2905323681714073894
+    second: Pentris_01_178
+  - first:
+      213: -6688021225084600327
+    second: Pentris_01_179
+  - first:
+      213: -68573934488163580
+    second: Pentris_01_180
+  - first:
+      213: 7291235388737193074
+    second: Pentris_01_181
+  - first:
+      213: -2200996619954608763
+    second: Pentris_01_182
+  - first:
+      213: -5523200530158074445
+    second: Pentris_01_183
+  - first:
+      213: 8985065651956533338
+    second: Pentris_01_184
+  - first:
+      213: -4618666275124250412
+    second: Pentris_01_185
+  - first:
+      213: 5466094922998717627
+    second: Pentris_01_186
+  - first:
+      213: -6106072919052159381
+    second: Pentris_01_187
+  - first:
+      213: 319169931798613114
+    second: Pentris_01_188
+  - first:
+      213: -2874105862248364051
+    second: Pentris_01_189
+  - first:
+      213: 4048094574277121656
+    second: Pentris_01_190
+  - first:
+      213: -6135597386111416278
+    second: Pentris_01_191
+  - first:
+      213: 3411216645709431043
+    second: Pentris_01_192
+  - first:
+      213: 250726183943036140
+    second: Pentris_01_193
+  - first:
+      213: 9095144545640220135
+    second: Pentris_01_194
+  - first:
+      213: 1707058024826218458
+    second: Pentris_01_195
+  - first:
+      213: -5928844087429720711
+    second: Pentris_01_196
+  - first:
+      213: 1099599747546960947
+    second: Pentris_01_197
+  - first:
+      213: 1366561840303056815
+    second: Pentris_01_198
+  - first:
+      213: 5424065986105545239
+    second: Pentris_01_199
+  - first:
+      213: 5500941352868662362
+    second: Pentris_01_200
+  - first:
+      213: -4128484131463444660
+    second: Pentris_01_201
+  - first:
+      213: -8108709889372353953
+    second: Pentris_01_202
+  - first:
+      213: -7904544927313470172
+    second: Pentris_01_203
+  - first:
+      213: -7151026724275766589
+    second: Pentris_01_204
+  - first:
+      213: 2658014019413403492
+    second: Pentris_01_205
+  - first:
+      213: 390378124988468008
+    second: Pentris_01_206
+  - first:
+      213: 8218786680849749552
+    second: Pentris_01_207
+  - first:
+      213: -5768998514195903350
+    second: Pentris_01_208
+  - first:
+      213: -6139092031504631612
+    second: Pentris_01_209
+  - first:
+      213: -4589749815998084456
+    second: Pentris_01_210
+  - first:
+      213: -8146764942953892277
+    second: Pentris_01_211
+  - first:
+      213: 7322762419165709647
+    second: Pentris_01_212
+  - first:
+      213: 7267198614385699220
+    second: Pentris_01_213
+  - first:
+      213: 8480291709188306253
+    second: Pentris_01_214
+  - first:
+      213: -1235468712268622537
+    second: Pentris_01_215
+  - first:
+      213: -3744143255149413104
+    second: Pentris_01_216
+  - first:
+      213: -1208750479498293228
+    second: Pentris_01_217
+  - first:
+      213: -2849733582918452731
+    second: Pentris_01_218
+  - first:
+      213: -4713308343978084554
+    second: Pentris_01_219
+  - first:
+      213: 5033852404861518119
+    second: Pentris_01_220
+  - first:
+      213: -722633417041816302
+    second: Pentris_01_221
+  - first:
+      213: -3992728331380050485
+    second: Pentris_01_222
+  - first:
+      213: -3088996474836603938
+    second: Pentris_01_223
+  - first:
+      213: 7090993459633237106
+    second: Pentris_01_224
+  - first:
+      213: -8258661322875352827
+    second: Pentris_01_225
+  - first:
+      213: 8253372274436233946
+    second: Pentris_01_226
+  - first:
+      213: -4139796503485695439
+    second: Pentris_01_227
+  - first:
+      213: -1348880906613907882
+    second: Pentris_01_228
+  - first:
+      213: 703309237593853479
+    second: Pentris_01_229
+  - first:
+      213: -1851697603039010125
+    second: Pentris_01_230
+  - first:
+      213: -5016408329430476830
+    second: Pentris_01_231
+  - first:
+      213: -2713655161653499416
+    second: Pentris_01_232
+  - first:
+      213: -1134802508714744013
+    second: Pentris_01_233
+  - first:
+      213: -8382791067433126681
+    second: Pentris_01_234
+  - first:
+      213: -1332867466105943377
+    second: Pentris_01_235
+  - first:
+      213: -6362213782792673976
+    second: Pentris_01_236
+  - first:
+      213: -7973530665844100681
+    second: Pentris_01_237
+  - first:
+      213: -4058810211566644381
+    second: Pentris_01_238
+  - first:
+      213: 6048174725017459942
+    second: Pentris_01_239
+  - first:
+      213: -15611012645829192
+    second: Pentris_01_240
+  - first:
+      213: 3975534885649990622
+    second: Pentris_01_241
+  - first:
+      213: 288794812833959208
+    second: Pentris_01_242
+  - first:
+      213: 5252354149329504952
+    second: Pentris_01_243
+  - first:
+      213: 7255718716094932691
+    second: Pentris_01_244
+  - first:
+      213: -721476807101380337
+    second: Pentris_01_245
+  - first:
+      213: 3376017627042352730
+    second: Pentris_01_246
+  - first:
+      213: -670162292343489200
+    second: Pentris_01_247
+  - first:
+      213: -1261680902695665864
+    second: Pentris_01_248
+  - first:
+      213: 4647160892762816942
+    second: Pentris_01_249
+  - first:
+      213: -3940889602057375886
+    second: Pentris_01_250
+  - first:
+      213: -1749764002020533043
+    second: Pentris_01_251
+  - first:
+      213: -3220563156782733265
+    second: Pentris_01_252
+  - first:
+      213: 3095768999564710272
+    second: Pentris_01_253
+  - first:
+      213: -8311477601390770999
+    second: Pentris_01_254
+  - first:
+      213: 2181120612282585476
+    second: Pentris_01_255
+  - first:
+      213: -234641429285761091
+    second: Pentris_01_256
+  - first:
+      213: 6278064715039411816
+    second: Pentris_01_257
+  - first:
+      213: 5731131314887713106
+    second: Pentris_01_258
+  - first:
+      213: -2133226889732646886
+    second: Pentris_01_259
+  - first:
+      213: -190693296667076942
+    second: Pentris_01_260
+  - first:
+      213: -3151451771390406170
+    second: Pentris_01_261
+  - first:
+      213: 7240676090591578793
+    second: Pentris_01_262
+  - first:
+      213: 4192855864185181222
+    second: Pentris_01_263
+  - first:
+      213: 3083456782082858022
+    second: Pentris_01_264
+  - first:
+      213: -7200771931323798103
+    second: Pentris_01_265
+  - first:
+      213: -2419281109847929177
+    second: Pentris_01_266
+  - first:
+      213: -2826029050750335864
+    second: Pentris_01_267
+  - first:
+      213: 7152022882168894223
+    second: Pentris_01_268
+  - first:
+      213: 1694127070029122152
+    second: Pentris_01_269
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pentris_01_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 393
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac00fcf39ac15c50800000000000000
+      internalID: 6652320861555526816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 393
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b31105d66bc5b660800000000000000
+      internalID: 7401045205173998519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460f2ba7683ec5f10800000000000000
+      internalID: 2259931279756816484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c271a65df51de40800000000000000
+      internalID: 5679425975303482441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c94728a946aa4d40800000000000000
+      internalID: 5569446724481010119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4e4f14b09ad67d0800000000000000
+      internalID: -2923494717277281076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87de8fc9b9c94860800000000000000
+      internalID: 7514759253132760972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_7
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de48760b2b950c600800000000000000
+      internalID: 486487383754638573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_8
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf734962584d06db0800000000000000
+      internalID: -4800603534433961989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_9
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f81d3c583a0eb9d0800000000000000
+      internalID: -2756754684722210573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_10
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2461b895fe7cb0e0800000000000000
+      internalID: -2252786120298240980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_11
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68998048e1c225240800000000000000
+      internalID: 4778930664169314694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_12
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d54dbd4c57b88630800000000000000
+      internalID: 3929592281949881816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_13
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb678c52f7fa08a10800000000000000
+      internalID: 1909719202634692284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_14
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f005476ff893210800000000000000
+      internalID: 1313239055031340950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_15
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b63560aefc6cc70800000000000000
+      internalID: 8991102310127201025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_16
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350aead4d5f3a8e10800000000000000
+      internalID: 2200641037891706963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_17
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c081d92045b9ab0800000000000000
+      internalID: -5000310591062537100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_18
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075a12b15954c3300800000000000000
+      internalID: 233137787424056688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_19
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64667467a5754fa0800000000000000
+      internalID: -5817113981873658769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_20
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c42e87cb1e1af60800000000000000
+      internalID: 8043958609058614381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_21
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bcafda660a490c0800000000000000
+      internalID: -4569851359008207979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_22
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366000d17b3c18a70800000000000000
+      internalID: 8827551935855855203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_23
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7638826ea3784530800000000000000
+      internalID: 3839445875147945597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_24
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a07081b70b7d4490800000000000000
+      internalID: -7760411309916524377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_25
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a330583f3a13520800000000000000
+      internalID: 2680103519566117458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_26
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6720d6681a3669310800000000000000
+      internalID: 1411425078623404662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_27
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8165bb37ca1412ad0800000000000000
+      internalID: -2728827690277972456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_28
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 420
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3daec5faa27d180800000000000000
+      internalID: -9090750390157519932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_29
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 393
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d67a87e2b13fce0800000000000000
+      internalID: -1372723575011185327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_30
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 393
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfb809bd9d88e940800000000000000
+      internalID: 5325662267919351746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8bf13aa044bbad0800000000000000
+      internalID: -2685477940319242048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a40543c0c1de9520800000000000000
+      internalID: 2710834651563623591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_33
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8131370c65a3530800000000000000
+      internalID: 3835473417223739645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_34
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de883a293de13bd50800000000000000
+      internalID: 6751774160405629165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_35
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eedc268de6dc7bd0800000000000000
+      internalID: -2630991766644531486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_36
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5f3415acfd01db0800000000000000
+      internalID: -4823109140874005047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_37
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aefe210a210ed2e0800000000000000
+      internalID: -2099239096387961177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_38
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6bf39e87ac4b7b0800000000000000
+      internalID: -5209316248302668121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_39
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be4b40cf8f5334a0800000000000000
+      internalID: -6614838356666003792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_40
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff90541dc3b2d4150800000000000000
+      internalID: 5858386230487878143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_41
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87e2f50c08a058d0800000000000000
+      internalID: -2859600993787385973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_42
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d121968e37e1bae10800000000000000
+      internalID: 2209893525324632605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_43
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489ce287c975985d0800000000000000
+      internalID: -3059818142278694524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_44
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6c98526b6367d90800000000000000
+      internalID: -7100427606561274164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_45
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91d2f577867121c0800000000000000
+      internalID: -4530209425986498149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_46
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1beae710eb4697db0800000000000000
+      internalID: -4793689561127539023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_47
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a21d1c013228dac0800000000000000
+      internalID: -3830273889026633053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_48
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76a8a928b96d3f30800000000000000
+      internalID: 4556914637662627454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_49
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970a571b834fb1790800000000000000
+      internalID: -7558179025278623623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_50
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd58144112f770e00800000000000000
+      internalID: 1010916421418452443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_51
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2092dca974a907760800000000000000
+      internalID: 7453627015628663042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_52
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb34b449d20ec900800000000000000
+      internalID: 706505323727567819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_53
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51229f7fbd9f75310800000000000000
+      internalID: 1393857332847911445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_54
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999783cba5ced66c0800000000000000
+      internalID: -4148399807289329255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_55
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65aab1739738bb20800000000000000
+      internalID: 3150329045753439596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_56
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088345d1d023f5900800000000000000
+      internalID: 675313501036886144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_57
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 404
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c3e1b58aa8f39e0800000000000000
+      internalID: -1639439283651724134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_58
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 329
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8887aa2330d08b9a0800000000000000
+      internalID: -6217204978198873976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 329
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2077ad5dea8a5afa0800000000000000
+      internalID: -5790036277049264382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_60
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87181bb3b8b923aa0800000000000000
+      internalID: -6182708316122021512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_61
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8877dc96eec6f55e0800000000000000
+      internalID: -1918695145003452536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_62
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc57b30007ded840800000000000000
+      internalID: 5250870610622897341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_63
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae8cb12fd139dc20800000000000000
+      internalID: 3231669042028514985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_64
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ca788998abe5410800000000000000
+      internalID: 1467815628701674517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_65
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b0b78656afb9280800000000000000
+      internalID: -9035352913937233086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_66
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2235964ee916030800000000000000
+      internalID: 3486242290418262756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_67
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338de791b9b518270800000000000000
+      internalID: 8250976714025261107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_68
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f53273b217f1bf0800000000000000
+      internalID: -351437815489011919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_69
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9429da2aac437820800000000000000
+      internalID: 2914757677585867935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_70
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ff583e1c3de09d0800000000000000
+      internalID: -2806072688105881712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_71
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a4e3a6d41ea0910800000000000000
+      internalID: 1804502323326503459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_72
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1976f13702e0c0040800000000000000
+      internalID: 4615079250681096081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_73
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7374bb4ef89149460800000000000000
+      internalID: 7247445806154467127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_74
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea20ef0d8d351bf0800000000000000
+      internalID: -354309319612683540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_75
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f668f60f8ef107220800000000000000
+      internalID: 2481518480007857775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_76
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be99eab6ac002ec0800000000000000
+      internalID: -3593858592401678666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_77
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f688e070a84642dd0800000000000000
+      internalID: -2511772148179236753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_78
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1517b29b68abe90800000000000000
+      internalID: -7009141740192837180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_79
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49d88518f6aee4e0800000000000000
+      internalID: -1950438004161455793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_80
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36de94484bcac8600800000000000000
+      internalID: 471941952280587619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_81
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a46c76e4a29eba0800000000000000
+      internalID: -6059265307413427629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_82
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cba360b29c6fd0e0800000000000000
+      internalID: -2242954712126870586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_83
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8327478c9fc77700800000000000000
+      internalID: 538126951685497742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_84
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9330832f5b7dfa850800000000000000
+      internalID: 6390563572714832697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_85
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48f2de44faa41090800000000000000
+      internalID: -8064633066442524595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_86
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce635a868397e820800000000000000
+      internalID: 2947486687192903362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_87
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446f43c51c1f0c3c0800000000000000
+      internalID: -4341204228007201212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_88
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028042a0f2a99b4c0800000000000000
+      internalID: -4271213244759930848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_89
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b57247a372ff010800000000000000
+      internalID: 1224740755678386946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_90
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35eb42fff0493b2f0800000000000000
+      internalID: -958259499273765293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_91
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06789038d7c03510800000000000000
+      internalID: 1526940005020759567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_92
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7280bd01266085550800000000000000
+      internalID: 6149672309433763879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_93
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d63eeb55ecd0770800000000000000
+      internalID: 8578739732880780576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_94
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee3477c909de9310800000000000000
+      internalID: 1413805969065131746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_95
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bf60f8db9f04820800000000000000
+      internalID: 2900592752570333975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_96
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308aa484b43f0ed90800000000000000
+      internalID: -7070383910310729725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_97
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 329
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4f425259d105e90800000000000000
+      internalID: -7039093691169573665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_98
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 329
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff2f5e60453ea210800000000000000
+      internalID: 1346071889476268016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_99
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 329
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657f582cdc75e2150800000000000000
+      internalID: 5849709507244324694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_100
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 265
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909b0f99a3e97b900800000000000000
+      internalID: 700202241607383305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_101
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 265
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0955df81905df1910800000000000000
+      internalID: 1810399810276906384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_102
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a3069937a3b6d90800000000000000
+      internalID: -7103519719077954914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_103
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe359a72e654ef80800000000000000
+      internalID: -8078236300876628232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_104
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10f7dcd634a10ca0800000000000000
+      internalID: -6052375868668907494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_105
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a310719523f4c3e0800000000000000
+      internalID: -2034233788985240663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_106
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6deea9e6cf877c90800000000000000
+      internalID: -7172105797077373585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_107
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad1c542ecfb74340800000000000000
+      internalID: 4848054415981813156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_108
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e02cabbe8091340800000000000000
+      internalID: 4834905483502554684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_109
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea6034f484998ba0800000000000000
+      internalID: -6086170122661106964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_110
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9801b7405d0eb9840800000000000000
+      internalID: 5232022597628792969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_111
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca423bbb223a0930800000000000000
+      internalID: 4110152773334616777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_112
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04704b252bcf02060800000000000000
+      internalID: 6926814069717731136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_113
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05759f63d6361bc70800000000000000
+      internalID: 8985072052305745744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_114
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6828408793852a670800000000000000
+      internalID: 8548492046552564358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_115
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a774190ab244ae8e0800000000000000
+      internalID: -1663442158191818886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_116
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22d2f402de81e760800000000000000
+      internalID: 7485421088343773743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_117
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d69c237be2b29df0800000000000000
+      internalID: -174880711194667305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_118
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a65a34138dd4a5b0800000000000000
+      internalID: -5357914101614225751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_119
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102f1d7a2283059f0800000000000000
+      internalID: -481823438633045503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_120
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdb15eabd0589230800000000000000
+      internalID: 3645752802809068989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_121
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 265
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3af45fc5db46e10800000000000000
+      internalID: 2190083525759181785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_122
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 265
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba3522bb4f9c6700800000000000000
+      internalID: 534977603210394299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_123
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 265
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093d09dca3836b370800000000000000
+      internalID: 8337913585331131280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_124
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 201
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5beefd7cdc49fd50800000000000000
+      internalID: 6771528024618625883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_125
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 201
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dce25f6d3eb2d00800000000000000
+      internalID: 949102658867612947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_126
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d400f23079334b0800000000000000
+      internalID: -5461855883141034610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_127
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b711b7b2b332550800000000000000
+      internalID: 6134812175343123335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_128
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39004114013a18fb0800000000000000
+      internalID: -4647254050263007085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_129
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabc7617d395aff90800000000000000
+      internalID: -6919119757070840915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_130
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8490f346b26fdd9a0800000000000000
+      internalID: -6206534045220796088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_131
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee68281ae5a6c34f0800000000000000
+      internalID: -847685675183339794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_132
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8caaeffc118e7cc0800000000000000
+      internalID: -3711387081354072949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_133
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a6ea2053e6937e0800000000000000
+      internalID: -1785274603318383982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_134
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da399f954c00daa20800000000000000
+      internalID: 3075114963887035309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_135
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5f6df96edabdf50800000000000000
+      internalID: 6907305659538535889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_136
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3985e727b8d4000800000000000000
+      internalID: 21826897068987364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_137
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb26d089f94bfaa0800000000000000
+      internalID: -6126221532150223878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_138
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b8d8ab8e0c717e0800000000000000
+      internalID: -1794753820689069264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_139
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adfe2acafc1326d0800000000000000
+      internalID: -3016535461948621402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_140
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c83800eb51085b00800000000000000
+      internalID: 817404826480031940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_141
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c283a39c09f9110800000000000000
+      internalID: 1269892813881355399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_142
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5434c93ea63d05860800000000000000
+      internalID: 7516740234120020805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_143
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e9a68f50e755880800000000000000
+      internalID: -8622847347423273404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_144
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f74af7df43071c0800000000000000
+      internalID: -4508044963625009312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_145
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3599f5589126c9a0800000000000000
+      internalID: -6213241697749854917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_146
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6728b97a943302210800000000000000
+      internalID: 1306100283375059574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_147
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3086654209cd7de70800000000000000
+      internalID: 9140016480414754819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_148
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660d83df5e734db10800000000000000
+      internalID: 2005289195022110822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_149
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c70a8df8c5c81b0800000000000000
+      internalID: -5653041659372340203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_150
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8320f4bb8c0d4fc30800000000000000
+      internalID: 4392365097147630136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_151
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2438a5e22cf64b7c0800000000000000
+      internalID: -4056494484561951934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_152
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff85ecfd40d0b9cb0800000000000000
+      internalID: -4856273458603075329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_153
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06825aa181ebab510800000000000000
+      internalID: 1565772831200192608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_154
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae248b6649a99e30800000000000000
+      internalID: 4510822621704892072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_155
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2db9133c487cce50800000000000000
+      internalID: 6830967003484372269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_156
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaf0570ece1f8080800000000000000
+      internalID: -9183087244950308186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_157
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 201
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aa074b573136910800000000000000
+      internalID: 1829327269901937195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_158
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 201
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bc8b4684f346980800000000000000
+      internalID: -8546636612682331299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_159
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 201
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801ec1afc6ae4ac70800000000000000
+      internalID: 8981561310657175816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_160
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 137
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be68a54f8da470d0800000000000000
+      internalID: -3425922585661509964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_161
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 137
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cab59d9637d81770800000000000000
+      internalID: 8581845719526521541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_162
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 137
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d4fd6a32a93ec30800000000000000
+      internalID: 4387519939903180163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_163
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 137
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badd6c6342cf59780800000000000000
+      internalID: -8676751874591367765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_164
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 137
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001193aceea2488a0800000000000000
+      internalID: -6303866373328531200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_165
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 137
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1004e6ea6ce9cdcd0800000000000000
+      internalID: -2531974314321887231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_166
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 137
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aa376ff36ad44f0800000000000000
+      internalID: -842834761600488805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_167
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 137
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863a67a79bffba930800000000000000
+      internalID: 4155696253268042600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_168
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 137
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bb58f20b13b84c0800000000000000
+      internalID: -4284275987731596476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_169
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 137
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673fd272fef3a3cf0800000000000000
+      internalID: -271834531115437194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_170
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 137
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c5e62e6e37c2750800000000000000
+      internalID: 6281523015753554988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_171
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 137
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0903adbd71726d300800000000000000
+      internalID: 276451410556104848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_172
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 137
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2946e9adb88f6660800000000000000
+      internalID: 7381268662464170284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_173
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 137
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63162cbab9e1baae0800000000000000
+      internalID: -1537101193866485450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_174
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 137
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab04e39e7e8bef40800000000000000
+      internalID: 5758853222821530536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_175
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 137
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01ca089b73378a10800000000000000
+      internalID: 1911553172766900490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_176
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 137
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936eac8b1a4c00f20800000000000000
+      internalID: 3386923118651696697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_177
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 137
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b4dca41d5978f50800000000000000
+      internalID: 6883635281594764082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_178
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 137
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade07e921873ea7d0800000000000000
+      internalID: -2905323681714073894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_179
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 137
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff3f8461206f23a0800000000000000
+      internalID: -6688021225084600327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_180
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 137
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b6bf1be506c0ff0800000000000000
+      internalID: -68573934488163580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_181
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 137
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274007794fbaf2560800000000000000
+      internalID: 7291235388737193074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_182
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 73
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58525cb4c3d7471e0800000000000000
+      internalID: -2200996619954608763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_183
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 73
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5cda88166a953b0800000000000000
+      internalID: -5523200530158074445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_184
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58ce640b9d51bc70800000000000000
+      internalID: 8985065651956533338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_185
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d874275e7337efb0800000000000000
+      internalID: -4618666275124250412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_186
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc97e13f587bdb40800000000000000
+      internalID: 5466094922998717627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_187
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66734f080fd24ba0800000000000000
+      internalID: -6106072919052159381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_188
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c87d7ac5bed6400800000000000000
+      internalID: 319169931798613114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_189
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de781d922ff1d18d0800000000000000
+      internalID: -2874105862248364051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_190
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87659fc4198bd2830800000000000000
+      internalID: 4048094574277121656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_191
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2883046faaf9daa0800000000000000
+      internalID: -6135597386111416278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_192
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30109634773175f20800000000000000
+      internalID: 3411216645709431043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_193
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec50d9c222ca7300800000000000000
+      internalID: 250726183943036140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_194
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e587bfa6c1783e70800000000000000
+      internalID: 9095144545640220135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_195
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad72fbcaa30b0b710800000000000000
+      internalID: 1707058024826218458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_196
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975931007b388bda0800000000000000
+      internalID: -5928844087429720711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_197
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33455abf420924f00800000000000000
+      internalID: 1099599747546960947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_198
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa72eded0c007f210800000000000000
+      internalID: 1366561840303056815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_199
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7129914c647264b40800000000000000
+      internalID: 5424065986105545239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_200
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c4ef3e305475c40800000000000000
+      internalID: 5500941352868662362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_201
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47c84b5e8da4b6c0800000000000000
+      internalID: -4128484131463444660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_202
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a83414153187f80800000000000000
+      internalID: -8108709889372353953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_203
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d5d58c44a6d4290800000000000000
+      internalID: -7904544927313470172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_204
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cab730051372cc90800000000000000
+      internalID: -7151026724275766589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_205
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467e42bfaa923e420800000000000000
+      internalID: 2658014019413403492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_206
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b450c16d6ea6500800000000000000
+      internalID: 390378124988468008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_207
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036d2c4f0fefe0270800000000000000
+      internalID: 8218786680849749552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_208
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cc893ba6660ffa0800000000000000
+      internalID: -5768998514195903350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_209
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 73
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c83cbad2509dcaa0800000000000000
+      internalID: -6139092031504631612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_210
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 73
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a05812cdeed40c0800000000000000
+      internalID: -4589749815998084456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_211
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 73
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46b0a2a270e0fe80800000000000000
+      internalID: -8146764942953892277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_212
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 9
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45c3f06f9daf9560800000000000000
+      internalID: 7322762419165709647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_213
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 9
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499aba2f2a64ad460800000000000000
+      internalID: 7267198614385699220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_214
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45fbd5016c00b570800000000000000
+      internalID: 8480291709188306253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_215
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7359e1280cbbadee0800000000000000
+      internalID: -1235468712268622537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_216
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01df4a8fb812a0cc0800000000000000
+      internalID: -3744143255149413104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_217
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410db67d7d7a93fe0800000000000000
+      internalID: -1208750479498293228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_218
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50af4a5a766b378d0800000000000000
+      internalID: -2849733582918452731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_219
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6373d488807f69eb0800000000000000
+      internalID: -4713308343978084554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_220
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721448b7716dbd540800000000000000
+      internalID: 5033852404861518119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_221
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21555626cb0b8f5f0800000000000000
+      internalID: -722633417041816302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_222
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5347bacbaf698c0800000000000000
+      internalID: -3992728331380050485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_223
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb2ee4821ea125d0800000000000000
+      internalID: -3088996474836603938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_224
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cae0a5bf4486260800000000000000
+      internalID: 7090993459633237106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_225
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509c1c97847536d80800000000000000
+      internalID: -8258661322875352827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_226
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada54d8fa5ed98270800000000000000
+      internalID: 8253372274436233946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_227
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ab45f730d7c86c0800000000000000
+      internalID: -4139796503485695439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_228
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e98fc46ffc74de0800000000000000
+      internalID: -1348880906613907882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_229
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e480a7608a2c900800000000000000
+      internalID: 703309237593853479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_230
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2ea6b37d27d46e0800000000000000
+      internalID: -1851697603039010125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_231
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e75cf3d333226ab0800000000000000
+      internalID: -5016408329430476830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_232
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9ecbe0209275ad0800000000000000
+      internalID: -2713655161653499416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_233
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337e5d9712f5040f0800000000000000
+      internalID: -1134802508714744013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_234
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4b45720f75aab80800000000000000
+      internalID: -8382791067433126681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_235
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa8416f914b08de0800000000000000
+      internalID: -1332867466105943377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_236
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8456c83e540e4b7a0800000000000000
+      internalID: -6362213782792673976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_237
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1bda0ea14585190800000000000000
+      internalID: -7973530665844100681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_238
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36397d8fd953ca7c0800000000000000
+      internalID: -4058810211566644381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_239
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec59282ede6fe350800000000000000
+      internalID: 6048174725017459942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_240
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 36
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b549a0edd988cff0800000000000000
+      internalID: -15611012645829192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_241
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 9
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3475b4aefeb2730800000000000000
+      internalID: 3975534885649990622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_242
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 9
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d81f72a51020400800000000000000
+      internalID: 288794812833959208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_243
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba8559454c14e840800000000000000
+      internalID: 5252354149329504952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_244
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6edf6dabd71b460800000000000000
+      internalID: 7255718716094932691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_245
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f090a0f9aacccf5f0800000000000000
+      internalID: -721476807101380337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_246
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e015715260ade20800000000000000
+      internalID: 3376017627042352730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_247
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d310f12fa13b6f0800000000000000
+      internalID: -670162292343489200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_248
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f3ee657eb9d7ee0800000000000000
+      internalID: -1261680902695665864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_249
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea10733d5380e7040800000000000000
+      internalID: 4647160892762816942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_250
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fe65269c52f49c0800000000000000
+      internalID: -3940889602057375886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_251
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccdcca29e697b7e0800000000000000
+      internalID: -1749764002020533043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_252
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2821474fd24e43d0800000000000000
+      internalID: -3220563156782733265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_253
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08198b5c08166fa20800000000000000
+      internalID: 3095768999564710272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_254
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4cc7a5823b7ac80800000000000000
+      internalID: -8311477601390770999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_255
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481d26b04a5e44e10800000000000000
+      internalID: 2181120612282585476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_256
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf05ddfcd26ebcf0800000000000000
+      internalID: -234641429285761091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_257
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e86d0889a202750800000000000000
+      internalID: 6278064715039411816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_258
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251eff8e091198f40800000000000000
+      internalID: 5731131314887713106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_259
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a189c2432714562e0800000000000000
+      internalID: -2133226889732646886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_260
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b65c1ff4758a5df0800000000000000
+      internalID: -190693296667076942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_261
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1df7f9f4bc344d0800000000000000
+      internalID: -3151451771390406170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_262
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa0069aa8c0c7460800000000000000
+      internalID: 7240676090591578793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_263
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624db2b9134003a30800000000000000
+      internalID: 4192855864185181222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_264
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c51504b93aaca20800000000000000
+      internalID: 3083456782082858022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_265
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad67dc6418b11c90800000000000000
+      internalID: -7200771931323798103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_266
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae83b306acfc6ed0800000000000000
+      internalID: -2419281109847929177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_267
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88487112d8de7c8d0800000000000000
+      internalID: -2826029050750335864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_268
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0374251be6114360800000000000000
+      internalID: 7152022882168894223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pentris_01_269
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 20
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a8575289fb28710800000000000000
+      internalID: 1694127070029122152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pentris_01_0: 6652320861555526816
+      Pentris_01_1: 7401045205173998519
+      Pentris_01_10: -2252786120298240980
+      Pentris_01_100: 700202241607383305
+      Pentris_01_101: 1810399810276906384
+      Pentris_01_102: -7103519719077954914
+      Pentris_01_103: -8078236300876628232
+      Pentris_01_104: -6052375868668907494
+      Pentris_01_105: -2034233788985240663
+      Pentris_01_106: -7172105797077373585
+      Pentris_01_107: 4848054415981813156
+      Pentris_01_108: 4834905483502554684
+      Pentris_01_109: -6086170122661106964
+      Pentris_01_11: 4778930664169314694
+      Pentris_01_110: 5232022597628792969
+      Pentris_01_111: 4110152773334616777
+      Pentris_01_112: 6926814069717731136
+      Pentris_01_113: 8985072052305745744
+      Pentris_01_114: 8548492046552564358
+      Pentris_01_115: -1663442158191818886
+      Pentris_01_116: 7485421088343773743
+      Pentris_01_117: -174880711194667305
+      Pentris_01_118: -5357914101614225751
+      Pentris_01_119: -481823438633045503
+      Pentris_01_12: 3929592281949881816
+      Pentris_01_120: 3645752802809068989
+      Pentris_01_121: 2190083525759181785
+      Pentris_01_122: 534977603210394299
+      Pentris_01_123: 8337913585331131280
+      Pentris_01_124: 6771528024618625883
+      Pentris_01_125: 949102658867612947
+      Pentris_01_126: -5461855883141034610
+      Pentris_01_127: 6134812175343123335
+      Pentris_01_128: -4647254050263007085
+      Pentris_01_129: -6919119757070840915
+      Pentris_01_13: 1909719202634692284
+      Pentris_01_130: -6206534045220796088
+      Pentris_01_131: -847685675183339794
+      Pentris_01_132: -3711387081354072949
+      Pentris_01_133: -1785274603318383982
+      Pentris_01_134: 3075114963887035309
+      Pentris_01_135: 6907305659538535889
+      Pentris_01_136: 21826897068987364
+      Pentris_01_137: -6126221532150223878
+      Pentris_01_138: -1794753820689069264
+      Pentris_01_139: -3016535461948621402
+      Pentris_01_14: 1313239055031340950
+      Pentris_01_140: 817404826480031940
+      Pentris_01_141: 1269892813881355399
+      Pentris_01_142: 7516740234120020805
+      Pentris_01_143: -8622847347423273404
+      Pentris_01_144: -4508044963625009312
+      Pentris_01_145: -6213241697749854917
+      Pentris_01_146: 1306100283375059574
+      Pentris_01_147: 9140016480414754819
+      Pentris_01_148: 2005289195022110822
+      Pentris_01_149: -5653041659372340203
+      Pentris_01_15: 8991102310127201025
+      Pentris_01_150: 4392365097147630136
+      Pentris_01_151: -4056494484561951934
+      Pentris_01_152: -4856273458603075329
+      Pentris_01_153: 1565772831200192608
+      Pentris_01_154: 4510822621704892072
+      Pentris_01_155: 6830967003484372269
+      Pentris_01_156: -9183087244950308186
+      Pentris_01_157: 1829327269901937195
+      Pentris_01_158: -8546636612682331299
+      Pentris_01_159: 8981561310657175816
+      Pentris_01_16: 2200641037891706963
+      Pentris_01_160: -3425922585661509964
+      Pentris_01_161: 8581845719526521541
+      Pentris_01_162: 4387519939903180163
+      Pentris_01_163: -8676751874591367765
+      Pentris_01_164: -6303866373328531200
+      Pentris_01_165: -2531974314321887231
+      Pentris_01_166: -842834761600488805
+      Pentris_01_167: 4155696253268042600
+      Pentris_01_168: -4284275987731596476
+      Pentris_01_169: -271834531115437194
+      Pentris_01_17: -5000310591062537100
+      Pentris_01_170: 6281523015753554988
+      Pentris_01_171: 276451410556104848
+      Pentris_01_172: 7381268662464170284
+      Pentris_01_173: -1537101193866485450
+      Pentris_01_174: 5758853222821530536
+      Pentris_01_175: 1911553172766900490
+      Pentris_01_176: 3386923118651696697
+      Pentris_01_177: 6883635281594764082
+      Pentris_01_178: -2905323681714073894
+      Pentris_01_179: -6688021225084600327
+      Pentris_01_18: 233137787424056688
+      Pentris_01_180: -68573934488163580
+      Pentris_01_181: 7291235388737193074
+      Pentris_01_182: -2200996619954608763
+      Pentris_01_183: -5523200530158074445
+      Pentris_01_184: 8985065651956533338
+      Pentris_01_185: -4618666275124250412
+      Pentris_01_186: 5466094922998717627
+      Pentris_01_187: -6106072919052159381
+      Pentris_01_188: 319169931798613114
+      Pentris_01_189: -2874105862248364051
+      Pentris_01_19: -5817113981873658769
+      Pentris_01_190: 4048094574277121656
+      Pentris_01_191: -6135597386111416278
+      Pentris_01_192: 3411216645709431043
+      Pentris_01_193: 250726183943036140
+      Pentris_01_194: 9095144545640220135
+      Pentris_01_195: 1707058024826218458
+      Pentris_01_196: -5928844087429720711
+      Pentris_01_197: 1099599747546960947
+      Pentris_01_198: 1366561840303056815
+      Pentris_01_199: 5424065986105545239
+      Pentris_01_2: 2259931279756816484
+      Pentris_01_20: 8043958609058614381
+      Pentris_01_200: 5500941352868662362
+      Pentris_01_201: -4128484131463444660
+      Pentris_01_202: -8108709889372353953
+      Pentris_01_203: -7904544927313470172
+      Pentris_01_204: -7151026724275766589
+      Pentris_01_205: 2658014019413403492
+      Pentris_01_206: 390378124988468008
+      Pentris_01_207: 8218786680849749552
+      Pentris_01_208: -5768998514195903350
+      Pentris_01_209: -6139092031504631612
+      Pentris_01_21: -4569851359008207979
+      Pentris_01_210: -4589749815998084456
+      Pentris_01_211: -8146764942953892277
+      Pentris_01_212: 7322762419165709647
+      Pentris_01_213: 7267198614385699220
+      Pentris_01_214: 8480291709188306253
+      Pentris_01_215: -1235468712268622537
+      Pentris_01_216: -3744143255149413104
+      Pentris_01_217: -1208750479498293228
+      Pentris_01_218: -2849733582918452731
+      Pentris_01_219: -4713308343978084554
+      Pentris_01_22: 8827551935855855203
+      Pentris_01_220: 5033852404861518119
+      Pentris_01_221: -722633417041816302
+      Pentris_01_222: -3992728331380050485
+      Pentris_01_223: -3088996474836603938
+      Pentris_01_224: 7090993459633237106
+      Pentris_01_225: -8258661322875352827
+      Pentris_01_226: 8253372274436233946
+      Pentris_01_227: -4139796503485695439
+      Pentris_01_228: -1348880906613907882
+      Pentris_01_229: 703309237593853479
+      Pentris_01_23: 3839445875147945597
+      Pentris_01_230: -1851697603039010125
+      Pentris_01_231: -5016408329430476830
+      Pentris_01_232: -2713655161653499416
+      Pentris_01_233: -1134802508714744013
+      Pentris_01_234: -8382791067433126681
+      Pentris_01_235: -1332867466105943377
+      Pentris_01_236: -6362213782792673976
+      Pentris_01_237: -7973530665844100681
+      Pentris_01_238: -4058810211566644381
+      Pentris_01_239: 6048174725017459942
+      Pentris_01_24: -7760411309916524377
+      Pentris_01_240: -15611012645829192
+      Pentris_01_241: 3975534885649990622
+      Pentris_01_242: 288794812833959208
+      Pentris_01_243: 5252354149329504952
+      Pentris_01_244: 7255718716094932691
+      Pentris_01_245: -721476807101380337
+      Pentris_01_246: 3376017627042352730
+      Pentris_01_247: -670162292343489200
+      Pentris_01_248: -1261680902695665864
+      Pentris_01_249: 4647160892762816942
+      Pentris_01_25: 2680103519566117458
+      Pentris_01_250: -3940889602057375886
+      Pentris_01_251: -1749764002020533043
+      Pentris_01_252: -3220563156782733265
+      Pentris_01_253: 3095768999564710272
+      Pentris_01_254: -8311477601390770999
+      Pentris_01_255: 2181120612282585476
+      Pentris_01_256: -234641429285761091
+      Pentris_01_257: 6278064715039411816
+      Pentris_01_258: 5731131314887713106
+      Pentris_01_259: -2133226889732646886
+      Pentris_01_26: 1411425078623404662
+      Pentris_01_260: -190693296667076942
+      Pentris_01_261: -3151451771390406170
+      Pentris_01_262: 7240676090591578793
+      Pentris_01_263: 4192855864185181222
+      Pentris_01_264: 3083456782082858022
+      Pentris_01_265: -7200771931323798103
+      Pentris_01_266: -2419281109847929177
+      Pentris_01_267: -2826029050750335864
+      Pentris_01_268: 7152022882168894223
+      Pentris_01_269: 1694127070029122152
+      Pentris_01_27: -2728827690277972456
+      Pentris_01_28: -9090750390157519932
+      Pentris_01_29: -1372723575011185327
+      Pentris_01_3: 5679425975303482441
+      Pentris_01_30: 5325662267919351746
+      Pentris_01_31: -2685477940319242048
+      Pentris_01_32: 2710834651563623591
+      Pentris_01_33: 3835473417223739645
+      Pentris_01_34: 6751774160405629165
+      Pentris_01_35: -2630991766644531486
+      Pentris_01_36: -4823109140874005047
+      Pentris_01_37: -2099239096387961177
+      Pentris_01_38: -5209316248302668121
+      Pentris_01_39: -6614838356666003792
+      Pentris_01_4: 5569446724481010119
+      Pentris_01_40: 5858386230487878143
+      Pentris_01_41: -2859600993787385973
+      Pentris_01_42: 2209893525324632605
+      Pentris_01_43: -3059818142278694524
+      Pentris_01_44: -7100427606561274164
+      Pentris_01_45: -4530209425986498149
+      Pentris_01_46: -4793689561127539023
+      Pentris_01_47: -3830273889026633053
+      Pentris_01_48: 4556914637662627454
+      Pentris_01_49: -7558179025278623623
+      Pentris_01_5: -2923494717277281076
+      Pentris_01_50: 1010916421418452443
+      Pentris_01_51: 7453627015628663042
+      Pentris_01_52: 706505323727567819
+      Pentris_01_53: 1393857332847911445
+      Pentris_01_54: -4148399807289329255
+      Pentris_01_55: 3150329045753439596
+      Pentris_01_56: 675313501036886144
+      Pentris_01_57: -1639439283651724134
+      Pentris_01_58: -6217204978198873976
+      Pentris_01_59: -5790036277049264382
+      Pentris_01_6: 7514759253132760972
+      Pentris_01_60: -6182708316122021512
+      Pentris_01_61: -1918695145003452536
+      Pentris_01_62: 5250870610622897341
+      Pentris_01_63: 3231669042028514985
+      Pentris_01_64: 1467815628701674517
+      Pentris_01_65: -9035352913937233086
+      Pentris_01_66: 3486242290418262756
+      Pentris_01_67: 8250976714025261107
+      Pentris_01_68: -351437815489011919
+      Pentris_01_69: 2914757677585867935
+      Pentris_01_7: 486487383754638573
+      Pentris_01_70: -2806072688105881712
+      Pentris_01_71: 1804502323326503459
+      Pentris_01_72: 4615079250681096081
+      Pentris_01_73: 7247445806154467127
+      Pentris_01_74: -354309319612683540
+      Pentris_01_75: 2481518480007857775
+      Pentris_01_76: -3593858592401678666
+      Pentris_01_77: -2511772148179236753
+      Pentris_01_78: -7009141740192837180
+      Pentris_01_79: -1950438004161455793
+      Pentris_01_8: -4800603534433961989
+      Pentris_01_80: 471941952280587619
+      Pentris_01_81: -6059265307413427629
+      Pentris_01_82: -2242954712126870586
+      Pentris_01_83: 538126951685497742
+      Pentris_01_84: 6390563572714832697
+      Pentris_01_85: -8064633066442524595
+      Pentris_01_86: 2947486687192903362
+      Pentris_01_87: -4341204228007201212
+      Pentris_01_88: -4271213244759930848
+      Pentris_01_89: 1224740755678386946
+      Pentris_01_9: -2756754684722210573
+      Pentris_01_90: -958259499273765293
+      Pentris_01_91: 1526940005020759567
+      Pentris_01_92: 6149672309433763879
+      Pentris_01_93: 8578739732880780576
+      Pentris_01_94: 1413805969065131746
+      Pentris_01_95: 2900592752570333975
+      Pentris_01_96: -7070383910310729725
+      Pentris_01_97: -7039093691169573665
+      Pentris_01_98: 1346071889476268016
+      Pentris_01_99: 5849709507244324694
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
