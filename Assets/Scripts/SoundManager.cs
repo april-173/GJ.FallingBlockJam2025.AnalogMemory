@@ -21,7 +21,7 @@ public class SoundManager : MonoBehaviour
     private Keyboard keyboard;
 
     private float[] lastPlayTime;       // 记录每个音效上次播放时间
-    public float sfxCooldown = 0.05f;   // 最短触发间隔，避免连续叠加太吵
+    public float sfxCooldown = 0.05f;   // 最短触发间隔，避免连续叠加
 
     private void Awake()
     {
@@ -87,7 +87,6 @@ public class SoundManager : MonoBehaviour
         }
     }
 
-    // 播放 BGM
     public void PlayBGM(int index)
     {
         if (index < 0 || index >= bgmClips.Length) return;
@@ -98,7 +97,6 @@ public class SoundManager : MonoBehaviour
         bgmSource.Play();
     }
 
-    // 播放 SFX
     public void PlaySFX(int index)
     {
         if (index < 0 || index >= sfxClips.Length) return;
@@ -110,7 +108,6 @@ public class SoundManager : MonoBehaviour
         sfxSource.PlayOneShot(sfxClips[index]);
     }
 
-    // 上一首
     public void PlayPreviousBGM()
     {
         if (!isSwitching)
@@ -120,7 +117,6 @@ public class SoundManager : MonoBehaviour
         }
     }
 
-    // 下一首
     public void PlayNextBGM()
     {
         if (!isSwitching)
@@ -130,7 +126,6 @@ public class SoundManager : MonoBehaviour
         }
     }
 
-    // 切换 BGM 协程
     private IEnumerator SwitchBGM(int newIndex)
     {
         isSwitching = true;
@@ -155,7 +150,7 @@ public class SoundManager : MonoBehaviour
         }
         else
         {
-            yield return new WaitForSeconds(0.25f); // 没有切换音效就等 0.3s
+            yield return new WaitForSeconds(0.25f);
         }
 
         // 播放新 BGM

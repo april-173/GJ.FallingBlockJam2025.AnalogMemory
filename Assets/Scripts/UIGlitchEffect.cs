@@ -38,12 +38,12 @@ public class GlitchTextOnInteract : MonoBehaviour, IPointerDownHandler, IPointer
 
         if (isSlider)
         {
-            // 👉 Slider：按下开始乱码
+            // Slider：按下开始乱码
             StartGlitch();
         }
         else
         {
-            // 👉 Button / Toggle：固定时长乱码
+            // Button / Toggle：固定时长乱码
             if (glitchCoroutine != null)
                 StopCoroutine(glitchCoroutine);
 
@@ -55,11 +55,10 @@ public class GlitchTextOnInteract : MonoBehaviour, IPointerDownHandler, IPointer
     {
         if (!isSlider) return;
 
-        // 👉 Slider：松开时停止乱码
+        // Slider：松开时停止乱码
         StopGlitch();
     }
 
-    // ========== 核心方法 ==========
     private void StartGlitch()
     {
         if (glitchCoroutine != null)

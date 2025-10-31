@@ -7,9 +7,9 @@ using UnityEngine;
 public class GlobalGlitchText : MonoBehaviour
 {
     [Header("Glitch Settings")]
-    [SerializeField] private float glitchInterval = 0.05f; // 每次随机字符的间隔
-    [SerializeField] private float baseRecoveryDelay = 2f; // 最底部的恢复时间
-    [SerializeField] private float reappearGlitchDuration = 0.6f; // 重新出现时乱码持续时间
+    [SerializeField] private float glitchInterval = 0.05f;          // 每次随机字符的间隔
+    [SerializeField] private float baseRecoveryDelay = 2f;          // 最底部的恢复时间
+    [SerializeField] private float reappearGlitchDuration = 0.6f;   // 重新出现时乱码持续时间
     [SerializeField] private string randomChars = "!@#$%^&*ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
 
     private class TMPInfo
@@ -17,8 +17,8 @@ public class GlobalGlitchText : MonoBehaviour
         public TMP_Text text;
         public string original;
         public float recoveryTime;
-        public bool wasActive; // 记录之前的激活状态
-        public Coroutine runningCoroutine; // 当前运行的协程（防止重复）
+        public bool wasActive;              // 记录之前的激活状态
+        public Coroutine runningCoroutine;  // 当前运行的协程（防止重复）
     }
 
     private List<TMPInfo> allTexts = new List<TMPInfo>();
@@ -60,10 +60,9 @@ public class GlobalGlitchText : MonoBehaviour
         {
             bool isActive = info.text.gameObject.activeInHierarchy && info.text.enabled;
 
-            // 检测 “由隐藏 → 显示”
+            // 检测 “隐藏 → 显示”
             if (!info.wasActive && isActive)
             {
-                // 如果之前有协程在跑，先停掉
                 if (info.runningCoroutine != null)
                     StopCoroutine(info.runningCoroutine);
 

@@ -5,13 +5,13 @@ using UnityEngine.InputSystem; // 新输入系统
 public class UICursor : MonoBehaviour
 {
     [Header("UI 光标设置")]
-    [SerializeField] private RectTransform cursorRect; // UI 光标对象（Image）
-    [SerializeField] private Canvas canvas;            // 挂载的 Canvas
-    [SerializeField] private Texture2D transparentCursor; // 一张透明的光标图（1x1透明png）
+    [SerializeField] private RectTransform cursorRect;      // UI 光标对象
+    [SerializeField] private Canvas canvas;                 // 挂载的 Canvas
+    [SerializeField] private Texture2D transparentCursor;   // 透明的光标图
 
     [Header("点击缩放设置")]
-    [SerializeField] private bool enableClickScale = true; // 是否启用点击缩放
-    [SerializeField] private float scaleFactor = 0.9f;     // 缩小时的比例
+    [SerializeField] private bool enableClickScale = true;  // 是否启用点击缩放
+    [SerializeField] private float scaleFactor = 0.9f;      // 缩小时的比例
 
     private Vector2 hotspot;
     private Vector3 originalScale;
